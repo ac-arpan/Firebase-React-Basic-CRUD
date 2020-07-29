@@ -42,9 +42,9 @@ function Contact() {
 
     return ( 
     <>
-        <div className="jumbotron jumbotron-fluid mt-4">
+        <div className="jumbotron jumbotron-fluid mt-4 bg-dark">
             <div className="container">
-                <h1 className="display-4 text-center">Contact Us</h1>
+                <h1 className="display-4 text-center text-white">Contact Us</h1>
             </div>
         </div>
         <div className="row">
